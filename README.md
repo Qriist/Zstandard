@@ -1,2 +1,2 @@
 # Zstandard
-A simple binding of the zstd library.
+A simple binding of the Zstandard library.
