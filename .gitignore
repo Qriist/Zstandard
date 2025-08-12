@@ -1,0 +1,4 @@
+lib/Aris
+*.pgn
+results*.txt
+releases

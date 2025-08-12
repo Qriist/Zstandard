@@ -1,0 +1,29 @@
+﻿{
+	"author": {
+		"email": "Qriist+Zstandard@gmail.com",
+		"name": "Qriist",
+		"website": ""
+	},
+	"bugs": {
+		"url": "https://github.com/Qriist/Zstandard/issues"
+	},
+	"dependencies": {
+		"Qriist/Null": "github:Qriist/Null@^v1.0.0 --main Null.ahk"
+	},
+	"description": "A simple binding of the Zstandard library.",
+	"homepage": "",
+	"keywords": [
+		"Zstandard",
+		"zstd",
+		"web",
+		"archives"
+	],
+	"license": "",
+	"main": "Zstandard.ahk",
+	"name": "Qriist/Zstandard",
+	"repository": {
+		"type": "github",
+		"url": "Qriist/Zstandard"
+	},
+	"version": "v0.5.0"
+}

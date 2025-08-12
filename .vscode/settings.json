@@ -1,0 +1,16 @@
+{
+    "AutoHotkey2.InterpreterPath": "C:\\Program Files\\AutoHotkey\\v2\\AutoHotkey64.exe",
+    "autohotkey.useVersion2": true,
+    "task.problemMatchers.neverPrompt": false,
+    "task.verboseLogging": true,
+    "emeraldwalk.runonsave": {
+      
+      "commands": [
+        {
+          // Run whenever any file is saved
+          "match": "\\.ahk$",
+          "cmd": "${workspaceFolder}\\scratch.ahk""
+        }
+      ]
+    }
+}
